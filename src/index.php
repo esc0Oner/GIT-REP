@@ -1,9 +1,4 @@
 <?php
-
 echo 'Hablame';
-
-
-
-
 
 ?>
