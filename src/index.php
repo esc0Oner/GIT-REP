@@ -9,14 +9,12 @@ function saludo($greeting, $name){
 
 echo saludo($greeting, $name);
 
-function product($a,$b,$op){
-    $a=25;
-    $b=5;
+$lucho= "OE MANO";
 
-    echo $op;
-   
+
+function Salidar(){
+    echo $lucho . " Vamos al B o que?";
 }
 
-echo "Ya veo porque estas pesando " .product($a,$b,$op);
-
+echo Salidar;
 ?>
