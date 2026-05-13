@@ -17,6 +17,6 @@ function product($a,$b,$op){
    
 }
 
-echo "Ya veo porque estas pesando " .product($a,$b,$op);
+product($a,$b,$op);
 
 ?>
